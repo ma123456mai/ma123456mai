@@ -2,7 +2,7 @@
 
 # 🐍 Snake Contribution Graph
 
----
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ma123456mai/ma123456mai/output/github-contribution-grid-snake-dark.svg">
